@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		44F7A7871E5E12470013E205 /* PathKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44F7A7851E5E12470013E205 /* PathKit.framework */; };
-		44F7A7881E5E12470013E205 /* Spectre.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44F7A7861E5E12470013E205 /* Spectre.framework */; };
+		44F7A7891E5E15E40013E205 /* PathKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44F7A7851E5E12470013E205 /* PathKit.framework */; };
+		44F7A78A1E5E15E40013E205 /* Spectre.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 44F7A7861E5E12470013E205 /* Spectre.framework */; };
 		OBJ_100 /* FilterTag.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_26 /* FilterTag.swift */; };
 		OBJ_101 /* ForTag.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_27 /* ForTag.swift */; };
 		OBJ_102 /* IfTag.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_28 /* IfTag.swift */; };
@@ -112,8 +112,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 0;
 			files = (
-				44F7A7871E5E12470013E205 /* PathKit.framework in Frameworks */,
-				44F7A7881E5E12470013E205 /* Spectre.framework in Frameworks */,
+				44F7A7891E5E15E40013E205 /* PathKit.framework in Frameworks */,
+				44F7A78A1E5E15E40013E205 /* Spectre.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
